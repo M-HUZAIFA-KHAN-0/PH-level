@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+  }
+  h1{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+ .color1 {
+    background-color: #FF0000;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color2 {
+    background-color: #ff5719;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color3 {
+    background-color: #ff9826;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color4 {
+    background-color: #FFB732;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color5 {
+    background-color: #FFFF00;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color6 {
+    background-color: #32CD32;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color7 {
+    background-color: #0EFF00;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color8 {
+    background-color: #089000;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color9 {
+    background-color: #00FA9A;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color10 {
+    background-color: #00FFFF;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color11 {
+    background-color: #0000FF;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color12 {
+    background-color: #9932CC;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color13 {
+    background-color: #9400D3;
+    font-size: 29px;
+    text-align: center;
+  }
+ .color14 {
+    background-color: #4B0082;
+    font-size: 29px;
+    text-align: center;
+  }
